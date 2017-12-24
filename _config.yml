@@ -1,17 +1,17 @@
-title: "Tina Wang's Personal Site"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+title: "Tina Wang"
+description: "Sophomore at New York University studying Computer Science with a minor in Gender & Sexuality Studies. Passionate about social justice and tech."
+about: "About HERE"
 location: "New York, NY"
-email: your-email@example.com
+email: xw1338@nyu.edu
 baseurl: ""
 
 url: "https://wang1998tina.github.io/" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h
-author: "Your Name"
+twitter_username: callmetinafey
+github_username:  wang1998tina
+author: "Tina Wang"
 
 # google analytics tracking code, please change the value
-g_analytics: ""
+g_analytics: "UA-111535283-1"
 
 # add your disqus to enable comments
 disqus_shortname:
