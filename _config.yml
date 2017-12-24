@@ -1,6 +1,6 @@
 title: "Tina Wang"
 description: "Sophomore at New York University studying Computer Science with a minor in Gender & Sexuality Studies. Passionate about social justice and tech."
-about: "About HERE"
+about: "Sophomore at New York University studying Computer Science with a minor in Gender & Sexuality Studies. Passionate about social justice and tech."
 location: "New York, NY"
 email: xw1338@nyu.edu
 baseurl: ""
@@ -24,6 +24,7 @@ isolang: en
 close_btn: "Close"
 home_btn: "Home"
 projects_btn: "Projects"
+resume_btn: "Resume"
 posts_btn: "Posts"
 imprint_btn: "Imprint"
 name_badge: "an article by"
