@@ -1,9 +1,6 @@
-- name: project 1
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+- name: Birth Con-Trail
+  link: "https://wang1998tina.github.io/BirthConTrail/"
+  description: "Created at NYU Sex Positive Game Jam, won Best Overall. Birth Con-Trail is an Oregon Trail-style game about contraceptive access."
+- name: Expose Fake Clinis
+  link: "https://exposefakeclinics.squarespace.com/"
+  description: "At Abortion Access Hackathon. Redesigned portions of website and created UI elements for Lady Parts Justic, an organization supporting women's health access"
