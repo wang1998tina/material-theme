@@ -4,7 +4,10 @@
 - name: Expose Fake Clinics
   link: "https://exposefakeclinics.squarespace.com/"
   description: "At Abortion Access Hackathon. Redesigned portions of website and created UI elements for Lady Parts Justice, an organization supporting women's health access"
-- name: Essays By Me
+- name: "Who Would Record Our Family History?"
+  link: "http://wang1998tina.github.io/Zine.pdf"
+  description: "A short personal zine/visual essay about loss, family, and intergenerational ties to food."
+- name: Essays By Me (on Medium)
   link: "https://medium.com/@tiniwini"
   description: "I write short essays on community, New York, and embodied experience."
 - name: meditation
